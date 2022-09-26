@@ -1,0 +1,55 @@
+body{
+    margin: 10px auto;
+    max-width: 600px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    background-color: rgb(238, 238, 218);
+    color:rgb(155, 139, 94);
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px; 
+}
+
+a{
+    color: rgb(76, 76, 76);
+    padding: 10px;
+    display: inline;
+    text-decoration-style: dotted;  
+}
+
+.background-meny{
+    border-bottom: 1px solid rgb(214, 213, 213);
+    width: 600px;
+    height: 35px;
+    text-align: center;
+    padding-top: 15px;    
+}
+
+#title{ 
+    text-align: center;
+}
+
+.text{
+    font-size: 14px;  
+}
+
+#image{ 
+width: 300px;
+height: 300px;
+margin: auto;
+border-bottom: 3px solid black;
+background-image: url(nina-simone.webp);
+background-size: cover;
+border-radius: 500px;
+}
+
+.bottom{
+    border-top: 1px solid rgb(214, 213, 213);
+    width: 600px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 14px;
+}
